@@ -2,11 +2,11 @@ working_dir - It has the path of the working directory.
 fileurl - It contains the links from where the dataset to be downloaded.
 datasetfiles.zip - It is the name of the dataset that is downloaded.
 
-## activity_label dataset has all the activity with their labels
+activity_label dataset has all the activity with their labels
 a. ClassLabels - contains labels 
 b. ActivityName - contains activity name for respective ClassLabels
 
-## features dataset has list of all features
+features dataset has list of all features
 a. id - contains id
 b. FeatureNames - contains feature names respective id.
 
