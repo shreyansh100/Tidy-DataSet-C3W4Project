@@ -1,5 +1,7 @@
 working_dir - It has the path of the working directory.
+
 fileurl - It contains the links from where the dataset to be downloaded.
+
 datasetfiles.zip - It is the name of the dataset that is downloaded.
 
 activity_label dataset has all the activity with their labels
@@ -10,15 +12,20 @@ features dataset has list of all features
 a. id - contains id
 b. FeatureNames - contains feature names respective id.
 
-feature_required - It has the index of all features with only mean and standard deviations
+feature_required - It has the index of all features with only mean and standard deviations.
+
 measurement - It has the data for all the feature names with only mean and standard deviations.
 
 trainDS - It is the training dataset having values which corressponds to mean and standard deviation.
-train_Labels - It has labels and corresponding to each labels, the activity name is present in activity_label dataset
+
+train_Labels - It has labels and corresponding to each labels, the activity name is present in activity_label dataset.
+
 train_sibjects - It has the subject id for respective subjects.
 
 testDS - It is the test dataset having values which corressponds to mean and standard deviation.
-test_labels - It has labels and corresponding to each labels, the activity name is present in activity_label dataset
+
+test_labels - It has labels and corresponding to each labels, the activity name is present in activity_label dataset.
+
 test_labels - It has the subject id for respective subjects.
 
 combinedDS - It has the combined dataset of trainDS and testDS
